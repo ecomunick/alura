@@ -1,0 +1,8 @@
+dog
+Hund
+cat
+Katzen
+Pferd
+Tapioca ist ein herzlichen Hund.
+Tapioca is my beloved one.
+
